@@ -21,3 +21,6 @@
 /yarn-error.log
 
 .byebug_history
+
+# Prevent all conflicts between Spinr and Git using Guard
+/spring/*.pid
